@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Ahmad Mazen Elhelou - Senior Backend Developer & System Architect">
-    <title>Ahmad Mazen Elhelou () | Senior Backend Developer & System Architect</title>
+    <title>Ahmad Mazen Elhelou | Senior Backend Developer & System Architect</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script>
@@ -70,7 +70,7 @@
                     AME
                 </div>
                 <h1 class="text-5xl md:text-7xl font-bold mb-4 gradient-text">
-                    Ahmad Mazen Elhelou
+                    Ahmad Mazen Elhelou Div
                 </h1>
                 <p class="text-xl md:text-2xl text-slate-300 font-light">
                     Senior Backend Developer & System Architect
